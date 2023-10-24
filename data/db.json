@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that users like to read ",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nIt is a long established fact that users like to read ",
+      "author": "Yoshi",
+      "id": 2
+    },
+    {
+      "title": "Tesing",
+      "body": "Lorem Ipsum",
+      "author": "yoshi",
+      "id": 3
+    }
+  ]
+}
